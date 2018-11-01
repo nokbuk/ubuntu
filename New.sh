@@ -17,4 +17,4 @@ date
 
 
 #desligando o servidor
-shutdown -r now
+#shutdown -r now
