@@ -15,6 +15,13 @@ echo $USER
 mkdir ~/pasta
 date
 
+echo $USER
+echo "Listas atualizadas!!!"
+apt update
+apt update
+apt update
+apt update
+apt full-upgrade
 
 #desligando o servidor
 #shutdown -r now
