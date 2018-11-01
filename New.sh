@@ -11,6 +11,10 @@ apt update
 echo "Listas atualizadas!!!"
 read
 cls
+echo $USER
+mkdir ~/pasta
+date
+
 
 #desligando o servidor
 shutdown -r now
